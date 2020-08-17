@@ -1,0 +1,10 @@
+### IntelliJ IDEA ###
+.idea
+.mvn
+src/test
+HELP.md
+mvnw
+mvnw.cmd
+*.iml
+
+
